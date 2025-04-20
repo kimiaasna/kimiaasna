@@ -6,11 +6,10 @@ I am a Data Analyst with an educational background in Computer Engineering. I am
 
 ## 🛠 Skills
 
-- Data Analysis with: `Python`, `Pandas`, `Jupyter`
-- Data Visualization: `Matplotlib`, `Seaborn`, `Power BI`, `Excel`
+- Data Analysis with: `Python`
+- Data Visualization: `Power BI`, `Excel`
 - Web Development: `HTML`, `CSS`
 - Databases and SQL
-- Documentation with Jupyter Notebook
 
 ---
 
